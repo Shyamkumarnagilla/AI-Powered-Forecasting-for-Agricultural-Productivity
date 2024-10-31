@@ -3,7 +3,7 @@
 This project aims to forecast agricultural productivity using a Keras-based machine learning model. By analyzing environmental, climatic, and soil-related features, this model helps predict crop yields, aiding farmers and agricultural planners in making informed decisions to improve productivity and resource management.
 
 ## Dataset
-The dataset includes variables like soil type, climate data, and historical yield records. Data preprocessing involved handling missing values, normalizing features, and encoding categorical variables to prepare for training.
+The dataset includes variables like soil type, climate data, and historical yield records. Data preprocessing involved handling missing values, normalizing features, and encoding categorical variables to prepare for training.<br>
 **Source**:https://github.com/Shyamkumarnagilla/AI-Powered-Forecasting-for-Agricultural-Productivity/blob/main/Crop_recommendation.csv
 
 ## Modeling
@@ -16,8 +16,7 @@ The model demonstrated high accuracy and reliable performance across various cla
 - **Accuracy**: 0.96
 - **Precision, Recall, F1-Score (Macro Average)**: 0.96
 - **Support**: 660 samples
-
-- ## Visualizations
+## Visualizations
 Feature importance and prediction visualizations were created to offer insights into which variables most significantly impact agricultural productivity.
 
 ## Conclusion
